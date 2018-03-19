@@ -1,5 +1,11 @@
 # antd-breadcrumb-wrap
 
+
+## feature
+🚀🚀 It solves the binding relationship with antd breadcrumb navigation,
+you need to provide the route data, to automatically update your bread
+crumbs navigation
+
 ## use
 ```
 import BreadCrumb from 'antd-breadcrumb-wrap"
@@ -47,4 +53,4 @@ cnpm | npm install antd-breadcrumb-wrap -S
 
 ## pull request
 
-i'm
+i'm very hopes someone give provide opinion, pull request in the repository.
