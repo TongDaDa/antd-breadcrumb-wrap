@@ -10,6 +10,7 @@ crumbs navigation
 
 ```javascript
 import BreadCrumbWrap from 'antd-breadcrumb-wrap'
+impoer routes from './routes'
 
 ..........some code
 
