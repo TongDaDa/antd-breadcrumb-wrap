@@ -1,1 +1,6 @@
 /lib
+.idea
+tmp
+node_modules
+coverage
+__tests__
