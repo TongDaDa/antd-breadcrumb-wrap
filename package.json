@@ -1,0 +1,35 @@
+{
+  "name": "antd-breadcrumb-wrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TongDaDa/antd-breadcrumb-wrap.git"
+  },
+  "keywords": [
+    "antd",
+    "component",
+    "breadcrumb"
+  ],
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "antd": "^3.2.2",
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.6.1",
+    "react-router-dom": "^4.2.2"
+  },
+  "author": "aflyingpig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TongDaDa/antd-breadcrumb-wrap/issues"
+  },
+  "homepage": "https://github.com/TongDaDa/antd-breadcrumb-wrap#readme"
+}
