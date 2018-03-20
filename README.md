@@ -9,7 +9,7 @@ crumbs navigation
 ## use
 
 ```javascript
-import BreadCrumbWrap from 'antd-breadcrumb-wrap"
+import BreadCrumbWrap from 'antd-breadcrumb-wrap'
 
 ..........some code
 
